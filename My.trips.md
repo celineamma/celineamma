@@ -2,7 +2,7 @@
 )
 #My trips in Europe ✈️🌍
 
-[celine](celine.md) -  [page01](Page01.md)
+[celine](readme.md) -  [page01](My.trips.md)
 
 - *Milan*
 - *Sicile*
